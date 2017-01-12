@@ -1,2 +1,2 @@
 # expresstest
-express+sequelize+middleware写的一个demo
+express+async+sequelize+middleware写的一个demo
